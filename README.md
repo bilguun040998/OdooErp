@@ -1,2 +1,0 @@
-# OdooErp
-OdooErp
